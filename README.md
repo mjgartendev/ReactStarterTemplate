@@ -1,2 +1,0 @@
-# ReactStarterTemplate
-Created with CodeSandbox
